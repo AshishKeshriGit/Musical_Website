@@ -1,5 +1,9 @@
 # Musical_Website
 
+in this project i have used Media Query to make the website responsive. Decrease the window size to see the responsiveness.
+
+I hope you will enjoy :)
+
 Here is the link you can see :)
 
    https://ashishkeshrigit.github.io/Musical_Website/
